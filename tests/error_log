@@ -1,0 +1,153 @@
+[22-Apr-2020 20:45:57 America/New_York] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ';' in /home/kaffdaho/dev/tests/one.php on line 3
+[22-Apr-2020 20:46:37 America/New_York] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ';' in /home/kaffdaho/dev/tests/one.php on line 3
+[22-Apr-2020 20:46:58 America/New_York] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ';' in /home/kaffdaho/dev/tests/one.php on line 3
+[22-Apr-2020 20:47:24 America/New_York] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ';' in /home/kaffdaho/dev/tests/one.php on line 3
+[22-Apr-2020 20:47:27 America/New_York] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ';' in /home/kaffdaho/dev/tests/one.php on line 3
+[22-Apr-2020 20:47:58 America/New_York] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/kaffdaho/dev/tests/one.php on line 7
+[22-Apr-2020 20:47:59 America/New_York] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/kaffdaho/dev/tests/one.php on line 7
+[22-Apr-2020 22:46:37 America/New_York] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/kaffdaho/dev/tests/one.php on line 4
+[22-Apr-2020 22:46:39 America/New_York] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/kaffdaho/dev/tests/one.php on line 4
+[22-Apr-2020 22:47:05 America/New_York] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/kaffdaho/dev/tests/one.php on line 4
+[22-Apr-2020 22:47:53 America/New_York] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/kaffdaho/dev/tests/one.php on line 4
+[22-Apr-2020 22:48:04 America/New_York] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/kaffdaho/dev/tests/one.php on line 4
+[22-Apr-2020 23:21:44 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function myFun(), 0 passed in /home/kaffdaho/dev/tests/one.php on line 8 and exactly 2 expected in /home/kaffdaho/dev/tests/one.php:5
+Stack trace:
+#0 /home/kaffdaho/dev/tests/one.php(8): myFun()
+#1 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 5
+[22-Apr-2020 23:25:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 13
+[22-Apr-2020 23:25:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 13
+[22-Apr-2020 23:25:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 13
+[22-Apr-2020 23:25:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 13
+[22-Apr-2020 23:26:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 13
+[22-Apr-2020 23:27:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 12
+[22-Apr-2020 23:28:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 12
+[22-Apr-2020 23:28:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 12
+[22-Apr-2020 23:29:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/kaffdaho/dev/tests/one.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 12
+[22-Apr-2020 23:29:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/kaffdaho/dev/tests/one.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 12
+[22-Apr-2020 23:30:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/kaffdaho/dev/tests/one.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 12
+[22-Apr-2020 23:30:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/kaffdaho/dev/tests/one.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 12
+[22-Apr-2020 23:30:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/kaffdaho/dev/tests/one.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 12
+[22-Apr-2020 23:30:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/kaffdaho/dev/tests/one.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 12
+[22-Apr-2020 23:31:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 12
+[22-Apr-2020 23:32:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 12
+[22-Apr-2020 23:33:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 12
+[22-Apr-2020 23:34:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 11
+[22-Apr-2020 23:35:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 11
+[22-Apr-2020 23:35:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 11
+[22-Apr-2020 23:35:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 11
+[22-Apr-2020 23:35:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 11
+[22-Apr-2020 23:35:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 11
+[22-Apr-2020 23:35:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 11
+[22-Apr-2020 23:35:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 11
+[22-Apr-2020 23:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 2
+[22-Apr-2020 23:36:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 11
+[22-Apr-2020 23:37:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/kaffdaho/dev/tests/one.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 11
+[22-Apr-2020 23:38:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/kaffdaho/dev/tests/one.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 11
+[22-Apr-2020 23:38:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/kaffdaho/dev/tests/one.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 11
+[22-Apr-2020 23:38:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/kaffdaho/dev/tests/one.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 11
+[22-Apr-2020 23:39:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 11
+[22-Apr-2020 23:40:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 10
+[22-Apr-2020 23:41:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/tests/one.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/tests/one.php on line 10

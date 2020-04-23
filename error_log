@@ -1,0 +1,5 @@
+[22-Apr-2020 23:31:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/kaffdaho/dev/one.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kaffdaho/dev/one.php on line 12
+[23-Apr-2020 04:10:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/kaffdaho/dev/wp-content/themes/myTheme/index.php on line 11
